@@ -1,2 +1,2 @@
-# webdev-resources
-Free tools that make the internet more equitable and accessible.
+# Free Resources for Web Developers
+This is a list of free tools that web developers, project owners, and project managers can use to improve their websites. Considerable effort was expended in creating this list, but since the internet changes rapidly, no guarantees can be made about the ongoing quality of any tool, website, or link listed here (sorry!). Please feel free to send us a message if you feel something needs to be updated.
